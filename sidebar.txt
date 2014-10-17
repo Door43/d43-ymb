@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[ymb:home|Door43 (ymb)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-ymb|d43-ymb repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-ymb/archive/master.zip|d43-ymb.zip]]
+
+**Recent Changes**
+{{changes>ns = ymb}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/ymb|Ethnologue data]]
+
